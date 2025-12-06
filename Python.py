@@ -1,2 +1,2 @@
 
-print('AA')
+print('A')
